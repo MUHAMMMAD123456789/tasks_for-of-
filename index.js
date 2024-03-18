@@ -35,20 +35,6 @@
 // покзать сколько гос-во зарабатывает со всех компаний 
 // найти успешные и не успешные 20000
 
-// for (let i = 0; i < arr.length; i++) {
-//     for (let j = 0; j < categories.length; j++) {
-//     if (arr[i].info.faculity.trim().toLowerCase() === categories[j].course.trim().toLowerCase()) {
-//     categories[j].count++;
-// }}}
-
-// console.log(categories);
-
-// for(let item of arr) {
-//     if(item.faculity === categories.course) {
-        
-//     }
-// }
-
 
 
 
